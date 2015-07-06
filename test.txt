@@ -1,4 +1,4 @@
 A new file to be pushed to my remote repository.
 Adding a new line.
 
-Adding a third line on the fourth line :)
+And another line.
